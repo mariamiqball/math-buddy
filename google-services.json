@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "563795046444",
+    "firebase_url": "https://mathbuddy-5e2b2.firebaseio.com",
+    "project_id": "mathbuddy-5e2b2",
+    "storage_bucket": "mathbuddy-5e2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563795046444:android:c33bf670df41d363",
+        "android_client_info": {
+          "package_name": "android.mathbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563795046444-nbc2v7vn93msfn7qo3ebfeo4vt2taetv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwjy_FZI5HmoLcicbmBszvMb8CV2vARQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
